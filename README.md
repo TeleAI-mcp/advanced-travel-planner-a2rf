@@ -1,2 +1,3 @@
-# advanced-travel-planner-a2rf
+# Advanced Travel Planner A2Rf
+
 A travel planning application for modern development workflows.
